@@ -1,0 +1,16 @@
+{
+    "namespace": "Tailwind-Content",
+    "references": ["Tailwind"],
+    "items": {
+      "includes": [
+        {
+          "name": "content",
+          "path": "/sitecore/content/xmc-tailwind"
+        },
+        {
+          "name": "media",
+          "path": "/sitecore/media library/Project/xmc-tailwind"
+        }
+      ]
+    }
+  }

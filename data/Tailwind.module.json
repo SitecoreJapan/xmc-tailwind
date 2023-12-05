@@ -1,0 +1,35 @@
+{
+    "namespace": "Tailwind",
+    "items": {
+      "includes": [
+        {
+          "name": "placeholders",
+          "path": "/sitecore/layout/Placeholder Settings/Project/xmc-tailwind"
+        },
+        {
+          "name": "component-renderings",
+          "path": "/sitecore/layout/Renderings/Feature/Tailwind"
+        },
+        {
+          "name": "component-settings",
+          "path": "/sitecore/system/Settings/Feature/Tailwind"
+        },
+        {
+          "name": "component-branches",
+          "path": "/sitecore/templates/Branches/Feature/Tailwind"
+        },
+        {
+          "name": "component-template",
+          "path": "/sitecore/templates/Feature/Tailwind"
+        },
+        {
+          "name": "renderings",
+          "path": "/sitecore/layout/Renderings/Project/xmc-tailwind"
+        },
+        {
+          "name": "templates",
+          "path": "/sitecore/templates/Project/xmc-tailwind"
+        }
+      ]
+    }
+  }
