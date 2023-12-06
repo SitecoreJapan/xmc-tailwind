@@ -4,9 +4,6 @@
 
 [Documentation (XM Cloud)](https://doc.sitecore.com/xmc/en/developers/xm-cloud/sitecore-javascript-rendering-sdk--jss--for-next-js.html)
 
-# Sitecor CLI restore
+# Project init
 
-dotnet tool restore
-
-# Sitecore local login
-dotnet sitecore login --authority https://auth.sitecorecloud.io  --cm https://xmcloudcm.localhost/ --allow-write true
+.\init.ps1
