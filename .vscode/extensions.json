@@ -1,9 +1,6 @@
 {
   "recommendations": [
-    "GraphQL.vscode-graphql",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "mikestead.dotenv",
-    "redhat.vscode-yaml",
+    "esbenp.prettier-vscode"
   ]
 }
